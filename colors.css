@@ -1,0 +1,28 @@
+div {
+    background-color: yellow;
+    color: black;
+}
+
+div {
+    background-color: rgb(255,0,0);
+    color: rgb(255,255, 255);
+}
+div {
+    background-color: rgba(255,0,0,1.0);
+    color: rgba(255,255,255, 1.0);
+}
+
+div {
+    background-color: #2bbd2e;
+    color: #ffffff;
+}
+
+div {
+    background-color:hsl(360,100%,50%);
+    color: hsl(180,100%,50%);
+}
+
+div {
+    background-color: hsla(0, 100%,50%, 1.0);
+    color: hsla(0, 100%,100%, 1.0);
+}
