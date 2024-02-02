@@ -1,0 +1,25 @@
+div{
+    border: 1px solid black;
+}
+
+div > p{
+    background-color: yellow;
+}
+
+code > p{
+    background-color: yellow;
+}
+
+
+
+
+
+
+
+div ~ h1{
+    background-color: yellowgreen;
+}
+
+code >h2{
+    background-color: yellowgreen;
+}
