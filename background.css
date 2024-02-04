@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+}
+  
+body {
+background-image: url(newyork.jpg);
+}
+
+body {
+    background-image: url(tree\ .png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:right top;
+    
+}
+
