@@ -1,0 +1,48 @@
+.a{
+    cursor: auto;
+}
+
+.b{
+    cursor: crosshair;
+}
+
+.c{
+    cursor: default;
+}
+
+.d{
+    cursor: e-resize;
+}
+
+.e{
+    cursor: help;
+}
+
+.f{
+    cursor: move;
+}
+.g{
+    cursor: n-resize;
+}
+
+.h{
+    cursor: nw-resize;
+}
+.i{
+    cursor: ne-resize;
+}
+
+.j{
+    cursor: pointer;
+}
+.k{
+    cursor: progress;
+}
+
+.h{
+    cursor: s-resize;
+}
+
+.m{
+    cursor: text;
+}
