@@ -1,0 +1,53 @@
+/* p{
+    color: blue;
+    text-align: center;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+div{
+    text-align: justify;
+
+} */
+
+a{
+    text-decoration: none;
+}
+
+p{
+text-decoration: overline;
+}
+
+span{
+    text-decoration: line-through;
+}
+
+h2{
+    text-transform: uppercase;
+    text-transform: capitalize;
+}
+
+nav{
+    text-indent: 40px;
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 30px;
+}
+
+h1{
+    word-spacing: 30px;
+    letter-spacing: 30px;
+}
+
+h6{
+    white-space: nowrap;
+}
+
+h3{
+    text-shadow: 4px 4px  red;
+}
+
+h4{
+    text-shadow: 2px 2px 2px blue;
+}
