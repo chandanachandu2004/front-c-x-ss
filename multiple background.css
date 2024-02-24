@@ -1,0 +1,6 @@
+body {
+    background-image: url(./tree\ .png),url(pink1.jpg);
+    background-repeat: no-repeat, repeat;
+    background-position: center ;
+    padding: 20px;
+}
