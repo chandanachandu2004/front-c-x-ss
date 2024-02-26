@@ -1,0 +1,12 @@
+div{
+    border: 1px solid black;
+    padding: 20px;
+    background-color:purple;
+    color: white;
+    font-size: 25px;
+    /* opacity: 1; */
+}
+
+div:hover{
+    opacity: 0.5;
+}
